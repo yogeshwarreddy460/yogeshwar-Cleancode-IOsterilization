@@ -1,0 +1,14 @@
+ ˛∫æ   4 ^
+      junit/framework/TestCase <init> (Ljava/lang/String;)V  junit/framework/TestSuite 
+ %com/surya/InterestCalculator/AppTest
+     (Ljava/lang/Class;)V  /com/surya/InterestCalculator/CalculateInterest
+     ()V@å      @√à     @      
+     calculateSimpleInterest (DDD)D
+ 	     assertEquals (DDD)V@j@     @ßp     @      @£à     @      @çL     @Ëj     ?¯      ?Ù      @î‘eîØO@í¿     @       @ôôôôôö
+  < =  calculateCompoundInterest@Û®ÿ   @$      @˙Í†    @¯j     @‰ˇˇˇ˛@„à     
+ 	 K L  testSimpleInterest
+ 	 N O  testCompoundInterest Code LineNumberTable LocalVariableTable this 'Lcom/surya/InterestCalculator/AppTest; testName Ljava/lang/String; suite ()Ljunit/framework/Test; 
+calculator 1Lcom/surya/InterestCalculator/CalculateInterest; testApp 
+SourceFile AppTest.java ! 	           P   >     *+∑ ±    Q   
+       R        S T      U V  	 W X  P   "      
+ª Y	∑ ∞    Q        	 L   P   ï 	    Wª Y∑ K *   ∂ ∏  !* # %∂ ∏  '*  ) )∂ ∏  +* - / 1∂ ∏ ±    Q       #  $  % . & B ' V ( R      O Y Z   	 O   P   ó 	    Yª Y∑ K 3* 5 7 9∂ ;∏  >* - ) @∂ ;∏  B* D 7 )∂ ;∏  F* H 7 /∂ ;∏ ±    Q       *  +  , 0 - D . X 0 R      Q Y Z    [   P   9      ∏ J∏ M±    Q       3  4  5 R        S T    \    ]
